@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/vikramcse/zip-array.git"
   },
-  "keywords": [],
+  "keywords": ["zip", "combine", "array", "python", "merge", "longest", "shortest"],
   "author": "Vikram <vikramcse.10@gmail.com>",
   "license": "ISC",
   "bugs": {
